@@ -1,0 +1,10 @@
+b: Binary number
+c: Single character
+d: Decimal number
+e: Exponential notation with one digit before decimal point
+f: Floating point as [-]ddd.ddd
+i: Identical to 'd'
+o: Octal number
+s: String
+u: Unsigned decimal number
+x: Hexadecimal number
